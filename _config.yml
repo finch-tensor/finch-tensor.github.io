@@ -61,20 +61,15 @@ paper_one_content: "Willow Ahrens, Teodoro Fields Collin, Radha Patel, Kyle Deed
 paper_one_link: https://doi.org/10.1145/3720473
 paper_one_download: https://willowahrens.net/assets/documents/ahrens_finch_2025.pdf
 
-paper_two_title: "SySTeC: A Symmetric Sparse Tensor Compiler"
-paper_two_content: "Radha Patel, Willow Ahrens, and Saman Amarasinghe, CGO '25, March 2025."
-paper_two_link: https://doi.org/10.1145/3696443.3708919
-paper_two_download: https://willowahrens.net/assets/documents/patel_systec_2025.pdf
+paper_two_title: "Galley: Modern Query Optimization for Sparse Tensor Programs"
+paper_two_content: "Kyle Deeds, Willow Ahrens, Magda Balazinska, and Dan Suciu, arXiv, August 2024."
+paper_two_link: https://doi.org/10.48550/arXiv.2408.14706
+paper_two_download: https://willowahrens.net/assets/documents/deeds_galley_2024.pdf
 
-paper_three_title: "Galley: Modern Query Optimization for Sparse Tensor Programs"
-paper_three_content: "Kyle Deeds, Willow Ahrens, Magda Balazinska, and Dan Suciu, arXiv, August 2024."
-paper_three_link: https://doi.org/10.48550/arXiv.2408.14706
-paper_three_download: https://willowahrens.net/assets/documents/deeds_galley_2024.pdf
-
-paper_four_title: "Looplets: A Language for Structured Coiteration"
-paper_four_content: "Willow Ahrens, Daniel Donenfeld, Fredrik Kjolstad, and Saman Amarasinghe, CGO, February 2023."
-paper_four_link: https://doi.org/10.1145/3579990.3580020
-paper_four_download: https://willowahrens.net/assets/documents/ahrens_looplets_2023.pdf
+paper_three_title: "Looplets: A Language for Structured Coiteration"
+paper_three_content: "Willow Ahrens, Daniel Donenfeld, Fredrik Kjolstad, and Saman Amarasinghe, CGO, February 2023."
+paper_three_link: https://doi.org/10.1145/3579990.3580020
+paper_three_download: https://willowahrens.net/assets/documents/ahrens_looplets_2023.pdf
 
 # Build settings
 theme: minima
