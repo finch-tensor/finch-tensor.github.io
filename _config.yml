@@ -21,7 +21,7 @@
 title: Finch Tensor
 description:
 baseurl:
-url: https://finch-tensor.github.io
+url: https://finch-tensor.org
 permalink: /:categories/:title
 
 content_type: Finch Tensor
