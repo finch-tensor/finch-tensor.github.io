@@ -5,6 +5,6 @@ finch-julia:
   extra: "&nbsp;"
 finch-tensor:
   name: Finch-Tensor
-  link: https://github.com/finch-tensor/finch-tensor
+  link: https://finch-tensor.github.io/finch-tensor/
   description: Sparse Tensor Programming in Pure Python
   extra: In progress
